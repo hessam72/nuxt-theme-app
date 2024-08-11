@@ -1,7 +1,7 @@
 <script setup lang="ts">
 const { isDarkMode } = useDarkMode();
 
-const lala;
+// const lala;
 </script>
 
 <template>
